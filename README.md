@@ -31,5 +31,5 @@ My pipeline consisted of 5 steps.
 
 ### 3. Possible improvements to your pipeline
 
-* Optimize settings for Hough transform parameters for better performance.
+* Optimize parameters for Hough transform for better performance.
 * Limit how much the slope and intercept for lane markings can change from one frame to the next.
